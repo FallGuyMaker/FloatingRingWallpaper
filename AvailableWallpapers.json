@@ -9,9 +9,10 @@
           "id": "Saturn",
           "name": "Saturn",
           "description": "A beautiful Saturn wallpaper",
-          "bundleUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/Saturn",
           "thumbnailUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/Minicard.png",
-          "sceneName": "Saturn",
+          "bundleUrl": "https://.../galaxy_assets.bundle",
+          "sceneBundleUrl": "https://.../galaxy_scene.bundle",
+          "sceneName": "GalaxyScene"
           "previews": {
             "aod": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/AOD.png",
             "locked": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/LOCKED.png",
