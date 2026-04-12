@@ -18,6 +18,25 @@
             "unlocked": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/UNLOCKED.png"
           }
         }
+
+        {
+      "id": "CUZINHOS",
+      "name": "CUZINHOS",
+      "thumbnailUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Category.png",
+      "wallpapers": [
+        {
+          "id": "Saturn",
+          "name": "Saturn",
+          "description": "A beautiful Saturn wallpaper",
+          "thumbnailUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/Minicard.png",
+          "sceneBundleUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/saturn.bundle",
+          "sceneName": "Saturn",
+          "previews": {
+            "aod": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/AOD.png",
+            "locked": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/LOCKED.png",
+            "unlocked": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/UNLOCKED.png"
+          }
+        }
       ]
     }
   ]
