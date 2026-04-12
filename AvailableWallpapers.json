@@ -1,1 +1,23 @@
-
+{
+  "categories": [
+    {
+      "id": "space",
+      "name": "Space",
+      "thumbnailUrl": "https://...",
+      "wallpapers": [
+        {
+          "id": "galaxy_01",
+          "name": "Galaxy",
+          "description": "A beautiful galaxy wallpaper",
+          "bundleUrl": "https://.../galaxy_01.bundle",
+          "thumbnailUrl": "https://...",
+          "previews": {
+            "aod": "https://...",
+            "locked": "https://...",
+            "unlocked": "https://..."
+          }
+        }
+      ]
+    }
+  ]
+}
