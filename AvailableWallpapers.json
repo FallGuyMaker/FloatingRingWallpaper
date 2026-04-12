@@ -1,15 +1,15 @@
 {
   "categories": [
     {
-      "id": "space",
-      "name": "Space",
+      "id": "Planets",
+      "name": "Planets",
       "thumbnailUrl": "https://...",
       "wallpapers": [
         {
-          "id": "galaxy_01",
-          "name": "Galaxy",
-          "description": "A beautiful galaxy wallpaper",
-          "bundleUrl": "https://.../galaxy_01.bundle",
+          "id": "Saturn",
+          "name": "Saturn",
+          "description": "A beautiful Saturn wallpaper",
+          "bundleUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/saturn",
           "thumbnailUrl": "https://...",
           "previews": {
             "aod": "https://...",
