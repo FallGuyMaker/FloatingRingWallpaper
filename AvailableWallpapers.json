@@ -12,9 +12,9 @@
           "bundleUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/Saturn",
           "thumbnailUrl": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/Minicard.png",
           "previews": {
-            "aod": "https://...",
-            "locked": "https://...",
-            "unlocked": "https://..."
+            "aod": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/AOD.png",
+            "locked": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/LOCKED.png",
+            "unlocked": "https://github.com/FallGuyMaker/FloatingRingWallpaper/raw/refs/heads/main/Bundles/Planets/Saturn/UNLOCKED.png"
           }
         }
       ]
